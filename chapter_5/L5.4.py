@@ -133,6 +133,3 @@ num = int(input("enter the num.."))
 for x in range(num):
     for i in name :
        print (i)
-#nam = input("enter your name: ")
-#for i in nam:
-  #  print (i)
