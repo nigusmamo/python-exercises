@@ -23,11 +23,6 @@ c2 = Circle(4)
 c3 = Circle(6)
 c4 = Circle(9)
 
-# c1.get_area()
-# c2.get_diameter()
-# c3.get_perimeter()
-# c4.getcolor()
-
 for g in (c1,c2,c3,c4):
     print(g.get_area())
     print(g.get_diameter())
