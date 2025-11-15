@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+ 
 ## 📂 Folder Structure
 
 python-exercises/
