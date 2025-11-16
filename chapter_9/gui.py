@@ -25,9 +25,4 @@ name = StringVar()
 entryname = Entry(frame,textvariable = name)
 
 entryname.grid(row =1, column=1)
-# rbtn3.pack()
-# cbtn.pack()
-# okbtn.pack()
-# canclebtn.pack()
-
 window.mainloop()
