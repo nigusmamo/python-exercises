@@ -4,8 +4,6 @@ W = weight
 H = height 
 BMI = W / H ** 2
 
-# print ("your BMI is",round(BMI,2))
-
 # advice
 if BMI < 18:
     print ("your BMI is",round(BMI,2),"you should gain some weight")
